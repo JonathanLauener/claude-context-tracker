@@ -2,7 +2,7 @@
 
 ## What this is
 Public-facing packaging of the user's Claude Code statusline (context bar + ETA) and the optional
-subagent-view binary patch. Repo: github.com/JonathanLauener/claude-context-tracker (private).
+subagent-view binary patch. Repo: github.com/JonathanLauener/claude-context-tracker (public since 2026-10-25).
 README.md explains the integration in detail.
 
 ## Sources of truth
